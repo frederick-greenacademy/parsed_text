@@ -25,8 +25,10 @@ A lightweight Flutter widget to detect patterns in text (like links, hashtags, o
 ## Installation
 
 Add to your pubspec.yaml:
+```yaml
 dependencies:
-  parsed_text: ^1.0.0
+  parsed_text: ^0.0.02
+```
 
 ## Usage
 

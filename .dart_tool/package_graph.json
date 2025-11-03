@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "parsed_text",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "dependencies": [
         "flutter"
       ],
