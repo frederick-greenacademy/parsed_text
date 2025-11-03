@@ -80,3 +80,6 @@ class ExamplePage extends StatelessWidget {
 ```
 
 ## API Reference
+```sh
+fvm flutter test --coverage or flutter test --coverage
+```
