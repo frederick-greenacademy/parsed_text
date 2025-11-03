@@ -79,7 +79,7 @@ class ExamplePage extends StatelessWidget {
 
 ```
 
-## API Reference
+## Test
 ```sh
 fvm flutter test --coverage or flutter test --coverage
 ```

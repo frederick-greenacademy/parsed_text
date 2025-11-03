@@ -1,7 +1,9 @@
 name: parsed_text
 description: "A lightweight Flutter widget to detect patterns in text (like links, hashtags, or mentions) and style or make them tappable."
 version: 0.0.1
-homepage:
+homepage: https://github.com/waldo-ha/parsed_text
+repository: https://github.com/waldo-ha/parsed_text
+issue_tracker: https://github.com/waldo-ha/parsed_text/issues
 
 environment:
   sdk: ^3.9.2
